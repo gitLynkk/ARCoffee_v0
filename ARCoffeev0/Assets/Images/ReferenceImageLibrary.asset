@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5547949839031847387
+  m_GuidHigh: 17290970767111023546
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5246039179921762374
+      m_GuidHigh: 11257561290454835120
+    m_SerializedTextureGuid:
+      m_GuidLow: 12647260687698478557
+      m_GuidHigh: 8379474505979247979
+    m_Size: {x: 0.1, y: 0.17777778}
+    m_SpecifySize: 1
+    m_Name: bassaLuce
+    m_Texture: {fileID: 2800000, guid: 6007c5dd1896af846bbd55b5aadf4974, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4712265711898152014
+      m_GuidHigh: 11135929112995262388
+    m_SerializedTextureGuid:
+      m_GuidLow: 17641975871341305593
+      m_GuidHigh: 17549888961759026523
+    m_Size: {x: 0.1, y: 0.17777778}
+    m_SpecifySize: 1
+    m_Name: altaLuce
+    m_Texture: {fileID: 2800000, guid: 734f9ef9e395f4d45b1d320507bb8df3, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4987739904333558085
+      m_GuidHigh: 14630946271021164687
+    m_SerializedTextureGuid:
+      m_GuidLow: 1802822526887950396
+      m_GuidHigh: 10370273485002517675
+    m_Size: {x: 0.1, y: 0.1}
+    m_SpecifySize: 1
+    m_Name: ImageMarker1
+    m_Texture: {fileID: 2800000, guid: 543a783ce9891904ab2c3a61ca9cea8f, type: 3}
